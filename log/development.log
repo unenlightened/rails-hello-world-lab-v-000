@@ -275,3 +275,9 @@ Started GET "/assets/turbolinks.self-2db6ec539b9190f75e1d477b305df53d12904d5cafd
 
 
 Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 73.183.195.24 at 2018-04-05 20:17:58 +0000
+
+
+Started GET "/" for 73.183.195.24 at 2018-05-10 08:46:38 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/rvm/gems/ruby-2.3.1/gems/railties-4.2.10/lib/rails/templates/rails/welcome/index.html.erb (3.8ms)
+Completed 200 OK in 35ms (Views: 21.1ms | ActiveRecord: 0.0ms)
